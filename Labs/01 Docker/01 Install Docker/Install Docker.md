@@ -33,8 +33,8 @@ Portainer is an open-source toolset that allows you to easily build and manage C
 > To access Portainer: http://0.0.0.0:9000/#!/auth  
 
 *  user: admin  
-  
-*  password: Portainer
+
+*  password: portainer
 
 For further information:  
 
