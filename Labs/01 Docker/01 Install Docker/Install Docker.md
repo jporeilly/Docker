@@ -7,6 +7,10 @@ check Docker status:
 ```
 systemctl status Docker
 ```
+check Docker:
+```
+docker info
+```
 list Containers:
 ```
 docker ps
