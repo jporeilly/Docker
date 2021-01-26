@@ -15,10 +15,21 @@ list Containers:
 ```
 docker ps
 ```
-there should be nothing running..!  
+you may find there's a Portainer Container running..!  
 
 For further information:  
 
 > Docker docs: https://docs.docker.com/
+
+
+## <font color='red'> 1.2 Portainer </font>
+Portainer is an open-source toolset that allows you to easily build and manage containers in Docker, Swarm, Kubernetes and Azure ACI.
+
+
+
+For further information:  
+
+> Portainer docs: https://documentation.portainer.io/
+
 
 ---
