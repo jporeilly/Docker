@@ -15,6 +15,10 @@ list Containers:
 ```
 docker ps
 ```
-there should be nothing running..!
+there should be nothing running..!  
+
+For further information:  
+
+> Docker docs: https://docs.docker.com/
 
 ---
