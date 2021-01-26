@@ -23,7 +23,7 @@ For further information:
 
 
 ## <font color='red'> 1.2 Portainer </font>
-Portainer is an open-source toolset that allows you to easily build and manage containers in Docker, Swarm, Kubernetes and Azure ACI.
+Portainer is an open-source toolset that allows you to easily build and manage Containers in Docker, Swarm, Kubernetes and Azure ACI.
 
 
 
