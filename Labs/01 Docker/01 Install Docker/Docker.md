@@ -3,6 +3,11 @@ Docker is a tool designed to make it easier to create, deploy, and run applicati
 
 Docker CE has already been installed and configured.
 
+In thiss Lab we're going to:
+* check system status of Docker
+* run through a few Docker commands
+* check out some useful tools
+
 ---
 
 ### <font color='red'> 1.1 Docker </font>
@@ -70,6 +75,6 @@ launch scope:
 scope launch
 ```
 
-> view in browser: http://<vm-IP address>:4040 
+> view in browser: http://<Lab-IP address>:4040 
 
 ---
